@@ -1,0 +1,13 @@
+name: Text
+version: 1.0.0
+description: "Text plugin provides you useful shortcodes to work with texts on your pages."
+author:
+  name: Sergey Romanenko
+  email: awilum@yandex.ru
+  url: http://flextype.org
+homepage: https://github.com/flextype-plugins/text
+bugs: https://github.com/flextype-plugins/text/issues
+license: MIT
+
+# Plugin settings
+enabled: true
