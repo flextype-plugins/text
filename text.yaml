@@ -1,5 +1,5 @@
 name: Text
-version: 1.0.0
+version: 1.0.1
 description: "Text plugin provides you useful shortcodes to work with texts on your pages."
 author:
   name: Sergey Romanenko
@@ -8,6 +8,3 @@ author:
 homepage: https://github.com/flextype-plugins/text
 bugs: https://github.com/flextype-plugins/text/issues
 license: MIT
-
-# Plugin settings
-enabled: true
